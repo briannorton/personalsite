@@ -1,0 +1,120 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+    color: inherit;
+    position: relative;
+    background-color: #eee;
+    background: url("../images/abel2.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    color: white;
+    margin-top: -10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+div.dark {
+    background-color: #505050;
+    color: white;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0;
+    border-top: 1px solid #888888;
+}
+
+hr.small {
+	border-top: 3px solid #787878;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+p, li {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #5D917D;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1.spacing {
+    margin-top: 60px;
+}
+
+h2.spacing {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+h5 {
+	margin-bottom: 8px;
+}
+
+h5.middle {
+	margin-top: 25px;
+}
+
+div.row-spacing-middle {
+	margin-top: 25px;
+}
+
+div.row-spacing-bottom {
+	margin-top: 25px; 
+    margin-bottom: 20px;
+}
+
+div.portfolio-spacing-top {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+div.portfolio-spacing-bottom {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+a.portfolio-link {
+    color: #5D917D;
+}
+
+div.footer {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+span.contact a:link {
+    color: #5D917D;
+}
+
+span.contact a:visited {
+    color: #5D917D;
+}
+
+span.contact a:hover {
+    color: #43695A;
+}
